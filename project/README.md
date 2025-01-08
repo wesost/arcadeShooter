@@ -2,6 +2,7 @@
 Wes O. 
 
 TO PLAY: Clone repo, run game.exe located in arcadeshooter/project/cpp_files
+
 movement: left/right arrow keys 
 
 shoot: spacebar
